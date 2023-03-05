@@ -10,9 +10,6 @@ no terminal a lista das propriedades ordenadas de A-Z uma em cada linha.
 
 
 ### Comando para a instalação:
-
-    
-        npm install 
         
         npm install readline-sync
          
