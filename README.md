@@ -17,9 +17,9 @@ no terminal a lista das propriedades ordenadas de A-Z uma em cada linha.
         
 ---
  
-  <img alt="cssNode" src="https://raw.githubusercontent.com/gooddri/ProjetoNodeCss/main/img/cssNode.png?token=GHSAT0AAAAAAB7RZXCFU4WSMQVHT4DARPUSZAEBUKA">
+  <img alt="cssNode" src="https://raw.githubusercontent.com/gooddri/ProjetoNodeCss/main/img/cssNode.png?token=GHSAT0AAAAAAB7RZXCF26P2TPFFKCW6ATJEZAEB7PA">
   
 ---
   
-  <img alt="cssNode" src="https://raw.githubusercontent.com/gooddri/ProjetoNodeCss/main/img/cssNode2.png?token=GHSAT0AAAAAAB7RZXCE6W7PNDQJJSRQWJ7SZAEBVIQ">
+  <img alt="cssNode" src="https://raw.githubusercontent.com/gooddri/ProjetoNodeCss/main/img/cssNode2.png?token=GHSAT0AAAAAAB7RZXCFLOD53TCWSGSIM44EZAECAEA">
   
