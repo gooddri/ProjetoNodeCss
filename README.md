@@ -17,3 +17,6 @@ no terminal a lista das propriedades ordenadas de A-Z uma em cada linha.
         npm install readline-sync
          
         node index.js  
+---
+ 
+  <img alt="cssNode" src="https://raw.githubusercontent.com/gooddri/ProjetoNodeCss/main/img/cssNode.png?token=GHSAT0AAAAAAB7RZXCF3AOKV5K3X3IGKU2KZAEBJEQ">
