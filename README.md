@@ -14,8 +14,6 @@ no terminal a lista das propriedades ordenadas de A-Z uma em cada linha.
     
         npm install 
         
-        ---
         npm install readline-sync
          
-     
         node index.js  
